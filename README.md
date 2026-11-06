@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="160" alt="profile" />
-
-# 안녕하세요, 이준영입니다 👋
-
 **데이터가 틀리지 않는 서비스를 고민하는 백엔드 개발자**
 
 "확인할 수 없는 값"을 "안전한 값"으로 착각하지 않도록,<br/>
