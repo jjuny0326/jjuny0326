@@ -1,15 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4A7A,100:8FB3E6&height=200&section=header&text=Lee%20Junyeong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=58" width="100%"/>
+
 <div align="center">
 
-**데이터가 틀리지 않는 서비스를 고민하는 백엔드 개발자**
+<h2>데이터가 틀리지 않는 서비스를 고민하는 백엔드 개발자</h2>
 
-"확인할 수 없는 값"을 "안전한 값"으로 착각하지 않도록,<br/>
-실패와 경계 조건까지 설계하는 것을 중요하게 생각합니다.
+<h3>"확인할 수 없는 값"을 "안전한 값"으로 착각하지 않도록,<br/>
+실패와 경계 조건까지 설계하는 것을 중요하게 생각합니다.</h3>
 
 </div>
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -38,9 +40,9 @@
 
 <br/>
 
-## 🚀 Projects
+## Projects
 
-### 🏠 이번집 — 전세사기 위험 분석 서비스
+### 이번집 — 전세사기 위험 분석 서비스
 `2026.07 ~ 2026.08` · 5인 팀 · KB IT's Your Life 7기 최종 프로젝트 · **리포트(Report) 도메인 담당**
 
 전세 매물 주소·보증금과 공공/민간 데이터를 결합해 전세사기 위험을 판정하는 서비스
@@ -51,12 +53,12 @@
 - **DB 유일성 제약**과 기존 결과 재사용으로 중복 발급 방지
 - 실패·경계 조건 중심의 테스트 작성
 
-`Java 17` `Spring MVC` `MyBatis` `MySQL` `Redis` `Flyway` · [📂 Repository](https://github.com/jjuny0326/second-zip-app)
+`Java 17` `Spring MVC` `MyBatis` `MySQL` `Redis` `Flyway` · [Repository](https://github.com/jjuny0326/second-zip-app)
 
 ---
 
-### 📞 단짝 — 고령층 맞춤 금융 단축번호 서비스
-`2026.08 ~ 2026.09` · 5인 팀 · **🏆 KB IT's Your Life 해커톤 우수상 (KB국민은행)** · **단축번호·계좌 도메인 FE/BE**
+### 단짝 — 고령층 맞춤 금융 단축번호 서비스
+`2026.08 ~ 2026.09` · 5인 팀 · **KB IT's Your Life 해커톤 우수상 (KB국민은행)** · **단축번호·계좌 도메인 FE/BE**
 
 전화 단축번호처럼, 가족이 등록해 둔 금융 업무를 시니어가 번호 하나로 실행하는 서비스
 
@@ -64,11 +66,11 @@
 - 범위 밖·복수 번호 입력 차단 검증, **취소 후 늦게 도착한 음성 응답 무효화**
 - 금액 만·억 단위 한글 보조 표기, 작은 화면·모바일 키보드에서도 버튼과 안내가 가려지지 않는 배치
 
-`Vue 3` `Spring` `MyBatis` `MySQL` `Docker` · [📂 Repository](https://github.com/jjuny0326/danjjak-app)
+`Vue 3` `Spring` `MyBatis` `MySQL` `Docker` · [Repository](https://github.com/jjuny0326/danjjak-app)
 
 ---
 
-### 🎲 AI Splendor — 실물 보드게임을 두는 AI
+### AI Splendor — 실물 보드게임을 두는 AI
 `2025.09 ~ 2025.12` · 3인 팀 · 세종대 캡스톤 디자인 · **컴퓨터비전 담당**
 
 카메라로 보드게임 판을 찍으면 상태를 인식해 AI가 다음 수를 두는 시스템
@@ -76,21 +78,21 @@
 - 카드 식별 방식을 **OCR → ORB → AKAZE**로 개선하며 조명·각도·회전 변화에 강한 인식 구현
 - 매 턴 판 전체를 다시 인식해 상태를 재구성하는 방식으로 **오인식이 다음 턴에 누적되지 않게** 설계
 
-`Python` `OpenCV` · [📂 Repository](https://github.com/jjuny0326/ai-splendor-boardgame) · [▶️ 시연 영상](https://youtu.be/FWvdVKT1ijA)
+`Python` `OpenCV` · [Repository](https://github.com/jjuny0326/ai-splendor-boardgame) · [시연 영상](https://youtu.be/FWvdVKT1ijA)
 
 <br/>
 
-## 📜 Certificates & Education
+## Certificates & Education
 
 | 구분 | 내용 |
 |:---:|---|
-| 🎓 학력 | 세종대학교 지능기전공학부 스마트기기전공 |
-| 📚 교육 | KB IT's Your Life 7기 (멀티캠퍼스 · 2026.03 ~ 2026.08 · 960시간) |
-| 🪪 자격증 | 정보처리기사 · SQLD · ADsP |
+| 학력 | 세종대학교 지능기전공학부 스마트기기전공 |
+| 교육 | KB IT's Your Life 7기 (멀티캠퍼스 · 2026.03 ~ 2026.08 · 960시간) |
+| 자격증 | 정보처리기사 · SQLD · ADsP |
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -103,6 +105,8 @@
 
 <br/>
 
-## 📫 Contact
+## Contact
 
 <a href="mailto:wns0236@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4A7A,100:8FB3E6&height=100&section=footer" width="100%"/>
