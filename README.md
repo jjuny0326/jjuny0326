@@ -96,10 +96,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjuny0326&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny0326&layout=compact&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjuny0326&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jjuny0326&theme=dark&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjuny0326&hide_border=true" height="165"/>
+</picture>
 
 </div>
 
